@@ -1,5 +1,9 @@
+
 const botoesCarrossel = document.querySelectorAll('.botao');
 const imagens = document.querySelectorAll('.imagem');
+const deslizador = 0;
+
+deslizador.forEach
 
 botoesCarrossel.forEach((botao, i) => {
     botao.addEventListener('click', () => {

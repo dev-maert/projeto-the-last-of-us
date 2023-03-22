@@ -34,7 +34,7 @@ main::after {
     width: 49%;
     font-size: 24px;
     color: #ffffff;
-    line-height: 30px;
+    line-height: 30px;  
 }
 
 .botoes-carrossel {
@@ -112,4 +112,5 @@ main::after {
     to {
         opacity: 1;
     }
+
 }
